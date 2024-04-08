@@ -20,6 +20,8 @@ namespace CallingMethods
 
             Console.WriteLine(MathOps.Math3(number3));
             Console.ReadLine();
+
+            Console.WriteLine("All three numbers have been divided, multiplied and added by 5");
         }
 
 
